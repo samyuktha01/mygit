@@ -1,4 +1,3 @@
-#this is my c file
 #include<stdio.h>
 #include<conio.h>
 main()
